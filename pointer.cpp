@@ -9,4 +9,5 @@ int main()
 	cout<<"you entered";
 	for(int i=0;i<5;++i)
 	cout<<endl<<*(a+i);
+	return 0;
 }
